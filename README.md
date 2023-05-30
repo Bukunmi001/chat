@@ -1,0 +1,2 @@
+# chat
+Django chat app
